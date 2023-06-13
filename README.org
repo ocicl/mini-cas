@@ -1,0 +1,10 @@
+* mini-cas
+
+
+
+|---------+-------------------------------------------|
+| source  | git:http://git.tentpost.com/git/lisp/mini-cas.git   |
+| commit  | {"messa  |
+| systems | mini-cas |
+|---------+-------------------------------------------|
+
