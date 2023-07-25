@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:http://git.tentpost.com/git/lisp/mini-cas.git   |
-| commit  | {"messa  |
+| commit  | 79dbd5d  |
 | systems | mini-cas |
 |---------+-------------------------------------------|
 
